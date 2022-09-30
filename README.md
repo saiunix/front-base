@@ -1,6 +1,6 @@
 # front-seven
 
-## Actuales dependencias dentro del proyecto (actualizadas septiembre 2022)
+## Actuales dependencias dentro de la plantilla base (actualizadas septiembre 2022)
 
 ```json
 ...
